@@ -1,0 +1,14 @@
+C:\Users\moyin\source\repos\TaskPane\TaskPane\bin\Debug\TaskPane.dll
+C:\Users\moyin\source\repos\TaskPane\TaskPane\bin\Debug\TaskPane.pdb
+C:\Users\moyin\source\repos\TaskPane\TaskPane\bin\Debug\TaskPane.dll.manifest
+C:\Users\moyin\source\repos\TaskPane\TaskPane\bin\Debug\TaskPane.vsto
+C:\Users\moyin\source\repos\TaskPane\TaskPane\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.csprojAssemblyReference.cache
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.CustomPane.resources
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.Properties.Resources.resources
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.Ribbon1.resources
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.csproj.GenerateResource.cache
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.csproj.CoreCompileInputs.cache
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.csproj.CopyComplete
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.dll
+C:\Users\moyin\source\repos\TaskPane\TaskPane\obj\Debug\TaskPane.pdb
